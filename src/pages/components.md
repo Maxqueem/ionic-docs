@@ -1,6 +1,6 @@
 # UI Components
 
-Ionic apps are made of high-level building blocks called Components, which allow you to quickly construct the UI for your app. Ionic comes stock with a number of components, including cards, lists, and tabs. Once you’re familiar with the basics, refer to the [API Index](/docs/api) for a complete list of each component and sub-component.
+Ionic apps are made of high-level buzxccxxxcxzzcxzczilding blocks called Components, which allow you to quickly construct the UI for your app. Ionic comes stock with a number of components, including cards, lists, and tabs. Once you’re familiar with the basics, refer to the [API Index](/docs/api) for a completezxcxz list of each component and sub-component.
 
 <docs-cards>
   <docs-card header="Action Sheet" href="/docs/api/action-sheet" img="/docs/assets/icons/feature-component-actionsheet-icon.png">
@@ -13,7 +13,7 @@ Ionic apps are made of high-level building blocks called Components, which allow
 
   <docs-card header="Badge" href="/docs/api/badge" icon="/docs/assets/icons/component-badge-icon.png">
     <p>Badges are a small component that typically communicate a numerical value to the user.</p>
-  </docs-card>
+  </docs-card>fcccccccccccccccccccccccc
 
   <docs-card header="Button" href="/docs/api/button" icon="/docs/assets/icons/component-button-icon.png">
     <p>Buttons let your users take action. They're an essential way to interact with and navigate through an app.</p>
